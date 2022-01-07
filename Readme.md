@@ -1,6 +1,6 @@
 # Hi there i'm Tonmoy Deb 👋
 
-a frontend developer from bangladesh. also a tech tech enthusiast. currently i'm learning & working with MERN stack. now i'm spending lot's of time in doing coding & amazing projects. quite interested in competitive programming so right now C++ in todo list also.
+a frontend developer from bangladesh. also a tech enthusiast. currently i'm learning & working with MERN stack. now i'm spending lot's of time in doing coding & amazing projects. quite interested in competitive programming so right now C++ in todo list also.
 <br/>
 <br/>
 :coffee: &emsp;Connect with me!
