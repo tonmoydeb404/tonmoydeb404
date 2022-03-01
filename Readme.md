@@ -1,11 +1,11 @@
 # Hi there i'm Tonmoy Deb 👋
 
-a frontend developer from bangladesh. also a tech enthusiast. currently i'm learning & working with MERN stack. now i'm spending lot's of time in doing coding & amazing projects. quite interested in competitive programming so right now C++ in todo list also.
+a frontend developer from bangladesh. also a tech enthusiast. currently i'm learning & working with MERN stack. now a days i'm spending lot's of time in doing coding & amazing projects. quite interested in competitive programming so right now C++ in todo list also.
 <br/>
 <br/>
 :coffee: &emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tonmoydeb) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonmoydeb/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tonmoydeb404) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmoydeb404@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tonmoydeb) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonmoydeb/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmoydeb404@gmail.com)
 
 <br/>
 
