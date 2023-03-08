@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=tonmoydeb404&icon=0&color=3)](https://visitcount.itsvg.in)
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/tonmoydeb404/tonmoydeb404/main/TD-BANNER.jpg" />
 </p>
