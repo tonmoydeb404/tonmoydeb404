@@ -20,7 +20,7 @@
 
 ### 💫 About Me
 
-🔭 Currently working on [chirkutt app](https://github.com/tonmoydeb404/chirkutt)<br>
+🔭 Currently working on [linkin app](https://github.com/tonmoydeb404/linkin)<br>
 🤝 I’m always available for collaborations <br>
 🌱 Currently learning backend with Node JS<br>
 💬 Ask me anything about JavaScript<br>
