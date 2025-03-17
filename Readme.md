@@ -58,7 +58,7 @@
 <img width="5" />
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" alt="Facebook" />](https://www.facebook.com/tonmoydeb)
 <img width="5" />
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="36" alt="WhatsApp" />](https://wa.me/qr/CBS65RKFP6RQF1)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="36" alt="WhatsApp" />](https://api.whatsapp.com/send?phone=8801571362609)
 
 </div>
 
