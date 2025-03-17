@@ -49,25 +49,17 @@
 
 <h4 align="left">Let's Connect</h4>
 <div align="left">
-  <a href="https://www.linkedin.com/in/tonmoydeb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="36" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/924160258044231681" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="41" height="36" alt="discord logo"  />
-  </a>
-  <a href="mailto:tonmoydeb404@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="36" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/tonmoydeb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="41" height="36" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/qr/CBS65RKFP6RQF1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="41" height="36" alt="whatsapp logo"  />
-  </a>
+
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" alt="LinkedIn" />](https://www.linkedin.com/in/tonmoydeb/)
+<img width="5" />
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" alt="Discord" />](https://discordapp.com/users/924160258044231681)
+<img width="5" />
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" alt="Gmail" />](mailto:tonmoydeb404@gmail.com)
+<img width="5" />
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" alt="Facebook" />](https://www.facebook.com/tonmoydeb)
+<img width="5" />
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="36" alt="WhatsApp" />](https://wa.me/qr/CBS65RKFP6RQF1)
+
 </div>
 
 ###
-
-<h4>Latest blog posts</h4>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
