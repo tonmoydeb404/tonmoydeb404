@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">Technologies</h5>
+<h4 align="left">Technologies</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="0" />
@@ -47,23 +47,27 @@
 
 ###
 
-<h5 align="left">Let's Connect</h5>
+<h4 align="left">Let's Connect</h4>
 <div align="left">
-  <a href="https://www.linkedin.com/in/tonmoydeb/" style="text-decoration: none;" target="_blank">
+  <a href="https://www.linkedin.com/in/tonmoydeb/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="36" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/924160258044231681" style="text-decoration: none;" target="_blank">
+  <a href="https://discordapp.com/users/924160258044231681" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="41" height="36" alt="discord logo"  />
   </a>
-  <a href="mailto:tonmoydeb404@gmail.com" style="text-decoration: none;" target="_blank">
+  <a href="mailto:tonmoydeb404@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="36" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/tonmoydeb" style="text-decoration: none;" target="_blank">
+  <a href="https://www.facebook.com/tonmoydeb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="41" height="36" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/qr/CBS65RKFP6RQF1" style="text-decoration: none;" target="_blank">
+  <a href="https://wa.me/qr/CBS65RKFP6RQF1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="41" height="36" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
+
+<h4>Latest blog posts</h4>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
